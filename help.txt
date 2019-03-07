@@ -1,0 +1,27 @@
+╔═════════════
+║keys[menu]
+║speed/sp
+║lebet/masuk[masukin asist via invite]
+║backup[add all asist]
+║asup[masukin asist via qr]
+║cium @mention[kick target]
+║bl [list blacklist]
+║cbl [clear blacklist]
+║absen[cek asist]
+║mybot[cek kontak bot]
+║ping[cek asist]
+║indukchangepp on/off
+║changepp on/off [ganti pp asist]
+║kabur[asist left group]
+║cabut[all bot left group]
+║jointicket on/off
+║on/off[qr, cancel, protek]
+║restart[merestart bot]
+║ancur[kickall]
+║adminadd @[tambah admin]
+║admindell @[hapus admin]
+║adminlist[cek admin]
+║changename:[text]
+║rejectall[tolak undangan grup]
+║cek[cek limit]
+╚═════════════

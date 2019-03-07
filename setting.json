@@ -1,0 +1,60 @@
+{
+    "autoJoin": {
+        "message": "ty for invite @!",
+        "status": true,
+        "reply": true,
+        "ticket": false
+    },
+    "author_lineid": "You can add the author by line id, ",
+    "autoRead": false,
+    "restartPoint": "mid",
+    "copyright": "If you respect the author please don't remove this copyright\n\u00a9 2018 Hello World",
+    "defaultReplyReader": "Sini kak @! temanin ",
+    "autoRespondMention": {
+        "message": "Kenapa kak? @! ",
+        "status": true
+    },
+    "checkSticker": false,
+    "changeGroupPicture": [],
+    "autoRespond": {
+        "message": "https://line.me/ti/p/~",
+        "status": false
+    },
+    "myProfile": {
+        "pictureStatus": "0hFe3pF2OoGUoOCTMXQ1ZmHTJMFyd5Jx8Cdm1QeCNcFX4qPF4YMGsEfisORnsgOApINDpTeSwBQ3wq",
+        "displayName": "=====>",
+        "statusMessage": "",
+        "coverId": "c0000000000000000000000000000001"
+    },
+    "mimic": {
+        "status": false,
+        "target": {
+            "u3f844cd72c18c54434a1b4f2cd1550d6": false
+        }
+    },
+    "changePictureProfile": false,
+    "changevp": false,
+    "changeCoverPicture": false,
+    "setKey": {
+        "status": true,
+        "key": ""
+    },
+    "autoAdd": {
+        "message": "cie nge add :v , minat order selfbot / bot protect add mybos https://line.me/ti/p/~",
+        "status": false,
+        "reply": true
+    },
+    "changeCoverProfile": false,
+    "greet": {
+        "join": {
+            "message": "Selamat Datang Kak @! \ud83d\ude0d",
+            "status": true
+        },
+        "leave": {
+            "message": "Bye bye @!",
+            "status": true
+        }
+    },
+    "checkContact": false,
+    "checkPost": false
+}
